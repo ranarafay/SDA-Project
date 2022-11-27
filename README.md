@@ -1,5 +1,5 @@
 # SDA-Project
-Hostel Management System, using JFX and MYSQL.
+# Hostel Management System, using JFX and MYSQL.
 
 ## Introduction:
 
